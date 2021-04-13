@@ -1,0 +1,13 @@
+# directory
+data/
+input/
+output/
+
+# files
+*.tar.gz
+*.csv
+*.h5
+*.lock
+*.ipython_checkpoints
+
+
