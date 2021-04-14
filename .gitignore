@@ -8,6 +8,6 @@ output/
 *.csv
 *.h5
 *.lock
-*.ipython_checkpoints
+*.ipynb_checkpoints
 
 
